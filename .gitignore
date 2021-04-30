@@ -1,0 +1,14 @@
+*.csv
+*.txt
+*.jpg
+*.jpeg
+*.json
+*.pdf
+*.doc
+*.docx
+*.ipynb_checkpoints
+*.png
+*.ppt
+*.ppsx
+*.pptx
+ 
